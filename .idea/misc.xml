@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_backward_interpolation.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_bisection_method.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_crout_method.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_divided_difference.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_forward_interpolation.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_gauss_jordan_method.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_gauss_seidal_method.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_interpolation.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_lagrange_formulae.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_linearequationsolution.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_mathematics3.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_newton_raphson_method.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_numerical_differentiation.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_numerical_integration.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/activity_regula_falsi_method.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/content_mathematics3.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/menu/unit1.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/menu/unit2.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/menu/unit3.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/menu/unit4.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Mathlytics/app/src/main/res/menu/unit5.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
